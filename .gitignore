@@ -1,0 +1,6 @@
+# Build output
+bin/
+obj/
+
+# Installer binary — distributed as a GitHub Release asset, not in the repo
+*.exe
