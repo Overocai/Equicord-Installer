@@ -1,7 +1,7 @@
 <div align="center">
 
-[![English](https://img.shields.io/badge/🇺🇸%20English-2b2d31?style=for-the-badge)](README.md)
-[![Português](https://img.shields.io/badge/🇧🇷%20Português-5865F2?style=for-the-badge)](portugues.md)
+![English](https://img.shields.io/badge/🇺🇸%20English-5865F2?style=for-the-badge)
+[![Português](https://img.shields.io/badge/🇧🇷%20Português-2b2d31?style=for-the-badge)](portugues.md)
 
 <br>
 
