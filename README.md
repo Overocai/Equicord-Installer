@@ -12,10 +12,10 @@ No terminal, no commands — the installer downloads and sets up **everything fo
 
 <br>
 
-<!-- Change "overocai/Equicord-Installer" below if your repository name is different -->
-### [⬇️ Download Equicord Installer](https://github.com/overocai/Equicord-Installer/releases/latest/download/Equicord%20Installer.exe)
+<!-- Change "Overocai/Equicord-Installer" below if your repository name is different -->
+### [⬇️ Download Equicord Installer](https://github.com/Overocai/Equicord-Installer/releases/latest/download/Equicord%20Installer.exe)
 
-[![Download now](https://img.shields.io/badge/⬇%20DOWNLOAD%20NOW-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://github.com/overocai/Equicord-Installer/releases/latest/download/Equicord%20Installer.exe)
+[![Download now](https://img.shields.io/badge/⬇%20DOWNLOAD%20NOW-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://github.com/Overocai/Equicord-Installer/releases/latest/download/Equicord%20Installer.exe)
 
 <sub>Windows · free · open source</sub>
 
@@ -48,7 +48,7 @@ You don't need to install anything beforehand. **Download, open, click. Done.**
 
 ## 🚀 How to use
 
-1. Click **[⬇️ Download Equicord Installer](https://github.com/overocai/Equicord-Installer/releases/latest/download/Equicord%20Installer.exe)**.
+1. Click **[⬇️ Download Equicord Installer](https://github.com/Overocai/Equicord-Installer/releases/latest/download/Equicord%20Installer.exe)**.
 2. Open the `Equicord Installer.exe` you downloaded.
 3. Click **Start Installation** and wait.
 4. When Windows asks for administrator permission (UAC), click **Yes**.
